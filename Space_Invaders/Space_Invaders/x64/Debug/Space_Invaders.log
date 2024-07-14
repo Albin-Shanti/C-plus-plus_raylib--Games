@@ -1,0 +1,6 @@
+﻿  Block.cpp
+C:\Dev\C++\Games\Space_Invaders\Space_Invaders\Block.cpp(11,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\Games\Space_Invaders\Space_Invaders\Block.cpp(11,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Space_Invaders.vcxproj -> C:\Dev\C++\Games\Space_Invaders\x64\Debug\Space_Invaders.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

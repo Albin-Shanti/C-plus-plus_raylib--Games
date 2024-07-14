@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\C\u002B\u002B\\Games\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFE73E-7507-4838-AB87-44833D39EDEB}|Snake\\Snake.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Snake\\Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0AFE73E-7507-4838-AB87-44833D39EDEB}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Snake\\Snake\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake\\Snake.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Snake\\Snake\\Snake.cpp",
+              "RelativeToolTip": "Snake\\Snake.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T16:55:00.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Dev\C++\Games\Pong\Pong\main.cpp(22,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(22,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(22,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(52,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(53,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(73,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Dev\C++\Games\Pong\Pong\main.cpp(171,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(174,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\Games\Pong\Pong\main.cpp(178,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Dev\C++\Games\Pong\x64\Debug\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

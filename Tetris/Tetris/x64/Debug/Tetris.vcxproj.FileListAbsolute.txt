@@ -1,0 +1,1 @@
+C:\Dev\C++\Tetris\Tetris\x64\Debug\Tetris.vcxproj.Up2Date

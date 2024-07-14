@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Laser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Laser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Mysteryship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Mysteryship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E43DD9-9A01-4DAF-BFBF-37FAC529E4ED}|Space_Invaders\\Space_Invaders.vcxproj|solutionrelative:Space_Invaders\\Alien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\main.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\main.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\main.cpp",
+              "RelativeToolTip": "Space_Invaders\\main.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T15:55:34.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spaceship.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Spaceship.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.h",
+              "RelativeToolTip": "Space_Invaders\\Spaceship.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T16:26:50.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spaceship.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Spaceship.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Spaceship.cpp",
+              "RelativeToolTip": "Space_Invaders\\Spaceship.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T16:28:59.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Game.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.h",
+              "RelativeToolTip": "Space_Invaders\\Game.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T18:00:47.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Game.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Game.cpp",
+              "RelativeToolTip": "Space_Invaders\\Game.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA8BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T18:00:52.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Laser.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Laser.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.h",
+              "RelativeToolTip": "Space_Invaders\\Laser.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T18:20:45.593Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laser.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Laser.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Laser.cpp",
+              "RelativeToolTip": "Space_Invaders\\Laser.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T18:22:49.979Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Block.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Block.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.h",
+              "RelativeToolTip": "Space_Invaders\\Block.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T15:23:13.231Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Block.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Block.cpp",
+              "RelativeToolTip": "Space_Invaders\\Block.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T15:25:06.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Obstacle.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Obstacle.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.h",
+              "RelativeToolTip": "Space_Invaders\\Obstacle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T15:28:21.651Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Obstacle.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Obstacle.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Obstacle.cpp",
+              "RelativeToolTip": "Space_Invaders\\Obstacle.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T15:38:22.487Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Alien.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Alien.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.h",
+              "RelativeToolTip": "Space_Invaders\\Alien.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T16:27:38.888Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alien.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Alien.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Alien.cpp",
+              "RelativeToolTip": "Space_Invaders\\Alien.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:31:01.224Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mysteryship.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.cpp",
+              "RelativeDocumentMoniker": "Space_Invaders\\Mysteryship.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.cpp",
+              "RelativeToolTip": "Space_Invaders\\Mysteryship.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T18:16:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mysteryship.h",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.h",
+              "RelativeDocumentMoniker": "Space_Invaders\\Mysteryship.h",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\Games\\Space_Invaders\\Space_Invaders\\Mysteryship.h",
+              "RelativeToolTip": "Space_Invaders\\Mysteryship.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T18:13:47.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
